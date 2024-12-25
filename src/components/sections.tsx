@@ -638,14 +638,11 @@ const Sections = ({
                     flexGrow: 1,
                   }}
                 >
-                  An innovative recruitment platform that leverages AI to
-                  transform the hiring process. Users can upload their CVs to
-                  automatically extract experiences and skills, creating a
-                  comprehensive profile. Companies can post job openings and,
-                  using AI, match candidates to roles with personalized scores
-                  based on their qualifications and fit. This intelligent system
-                  streamlines talent acquisition, enabling efficient and
-                  data-driven hiring for both candidates and companies.
+                  An innovative AI-powered recruitment platform that transforms
+                  the hiring process. Candidates upload CVs, which are analyzed
+                  to extract skills and experiences, creating detailed profiles.
+                  Companies post job openings, and AI matches candidates to
+                  roles with personalized scores based on qualifications and fit
                 </p>
                 <strong className="project-title ">
                   <p
