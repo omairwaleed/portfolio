@@ -653,6 +653,65 @@ const Sections = ({
               </div>
             </div>
           </div>
+
+          <div
+            className="project-card"
+            style={{
+              display: "flex",
+              flexDirection: "column",
+              marginTop: 35,
+            }}
+          >
+            <div
+              className="project-image"
+              style={{
+                height: "80%",
+              }}
+            >
+              <img src="images/auth.png" alt="" />
+            </div>
+            <div
+              className="project-info"
+              style={{
+                flexGrow: 1,
+                display: "flex",
+                flexDirection: "column",
+              }}
+            >
+              <strong className="project-title">
+                <span>Full Stack Auth Module (Next + Nest )</span>
+              </strong>
+              <p
+                style={{
+                  fontSize: 14,
+                  color: "gray",
+                  marginTop: 5,
+                  marginBottom: 5,
+                  flexGrow: 1,
+                }}
+              >
+                Secure Authentication System with Token-Based Authorization A
+                robust and secure authentication system built with NestJS and
+                Next.js, implementing JWT-based authentication with access and
+                refresh tokens. The system ensures secure user sign-in and
+                sign-up, with tokens stored in HTTP-only cookies for enhanced
+                security. It features automatic token refresh, password hashing
+                with bcrypt, and strict CORS policies for cross-domain requests.
+                Designed with security best practices, this project demonstrates
+                seamless frontend-backend integration, ensuring a smooth and
+                secure user experience.
+              </p>
+              <strong className="project-title ">
+                <a
+                  href="https://auth-module-mu.vercel.app/"
+                  className="more-details"
+                  target="_blank"
+                >
+                  Try Module
+                </a>
+              </strong>
+            </div>
+          </div>
           <div
             className="project-card"
             style={{
