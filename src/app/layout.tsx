@@ -4,7 +4,8 @@ import "./globals.css";
 import { AntdRegistry } from "@ant-design/nextjs-registry";
 // eslint-disable-next-line @typescript-eslint/no-unused-vars
 import { Analytics } from "@vercel/analytics/react";
-
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
+import { SpeedInsights } from "@vercel/speed-insights/next";
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",
   variable: "--font-geist-sans",
