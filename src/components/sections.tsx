@@ -467,7 +467,7 @@ const Sections = ({
                 </strong>
               </div>
             </div>
-            {/* <div
+            <div
               className="project-card"
               style={{
                 display: "flex",
@@ -522,7 +522,7 @@ const Sections = ({
                   </p>
                 </strong>
               </div>
-            </div> */}
+            </div>
           </div>
 
           <div
@@ -592,7 +592,7 @@ const Sections = ({
               </div>
             </div>
 
-            {/* <div
+            <div
               className="project-card"
               style={{ display: "flex", flexDirection: "column" }}
             >
@@ -651,7 +651,7 @@ const Sections = ({
                   </p>
                 </strong>
               </div>
-            </div> */}
+            </div>
           </div>
 
           <div
