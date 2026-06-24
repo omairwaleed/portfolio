@@ -325,6 +325,24 @@ const certifications: Cert[] = [
     icon: "💻",
     color: "#38bdf8",
   },
+  {
+    title: "The Ultimate SEO Training 2025",
+    issuer: "Udemy",
+    year: "2025",
+    icon: "🔍",
+    verifyUrl:
+      "https://www.udemy.com/certificate/UC-eaef2eca-bad0-44d8-84a6-09fe5d17a039/",
+    color: "#a435f0",
+  },
+  {
+    title: "Supervised Machine Learning: Regression and Classification",
+    issuer: "DeepLearning.AI & Stanford University",
+    year: "2022",
+    icon: "🤖",
+    verifyUrl:
+      "https://www.coursera.org/account/accomplishments/verify/PYD5K7GMFWQK",
+    color: "#0056d2",
+  },
 ];
 
 const filterLabels: { key: string; label: string }[] = [
